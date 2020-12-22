@@ -1,0 +1,582 @@
+A**********************************A
+
+A 1.adım atıldı yeni yer: [1] [0] guncel altin: 190
+A 2.adım atıldı yeni yer: [2] [0] guncel altin: 185
+A [2] [0] de 15 gold bulundu guncel altin:200
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [0] [18] guncel altin: 185
+B 2.adım atıldı yeni yer: [0] [17] guncel altin: 180
+B [0] [17] de 5 gold bulundu guncel altin:185
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [18] [19] guncel altin: 180
+C 2.adım atıldı yeni yer: [17] [19] guncel altin: 175
+C 3.adım atıldı yeni yer: [17] [18] guncel altin: 170
+C [17] [18] de 20 gold bulundu guncel altin:190
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [19] [1] guncel altin: 175
+D 2.adım atıldı yeni yer: [19] [2] guncel altin: 170
+D [19] [2] de 10 gold bulundu guncel altin:180
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [3] [0] guncel altin: 190
+A 2.adım atıldı yeni yer: [3] [1] guncel altin: 185
+A 3.adım atıldı yeni yer: [4] [1] guncel altin: 180
+A [4] [1] de 5 gold bulundu guncel altin:185
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [1] [17] guncel altin: 170
+B 2.adım atıldı yeni yer: [2] [17] guncel altin: 165
+B 3.adım atıldı yeni yer: [3] [17] guncel altin: 160
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [16] [18] guncel altin: 170
+C [16] [18] de 20 gold bulundu guncel altin:190
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [18] [2] guncel altin: 155
+D 2.adım atıldı yeni yer: [18] [3] guncel altin: 150
+D [18] [3] de 15 gold bulundu guncel altin:165
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [4] [2] guncel altin: 175
+A 2.adım atıldı yeni yer: [4] [3] guncel altin: 170
+A [4] [3] de 5 gold bulundu guncel altin:175
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [4] [17] guncel altin: 155
+B [4] [17] de 15 gold bulundu guncel altin:170
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [16] [19] guncel altin: 170
+C [16] [19] de 5 gold bulundu guncel altin:175
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [17] [3] guncel altin: 140
+D 2.adım atıldı yeni yer: [16] [3] guncel altin: 135
+D [16] [3] de 15 gold bulundu guncel altin:150
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [5] [3] guncel altin: 165
+A 2.adım atıldı yeni yer: [5] [2] guncel altin: 160
+A [5] [2] de 5 gold bulundu guncel altin:165
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [4] [18] guncel altin: 155
+B 2.adım atıldı yeni yer: [5] [18] guncel altin: 150
+B 3.adım atıldı yeni yer: [5] [19] guncel altin: 145
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [15] [19] guncel altin: 155
+C [15] [19] de 10 gold bulundu guncel altin:165
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [15] [3] guncel altin: 125
+D [15] [3] de 20 gold bulundu guncel altin:145
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [6] [2] guncel altin: 155
+A 2.adım atıldı yeni yer: [7] [2] guncel altin: 150
+A 3.adım atıldı yeni yer: [8] [2] guncel altin: 145
+A [8] [2] de 5 gold bulundu guncel altin:150
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [6] [19] guncel altin: 140
+B [6] [19] de 20 gold bulundu guncel altin:160
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [14] [19] guncel altin: 145
+C [14] [19] de 5 gold bulundu guncel altin:150
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [15] [4] guncel altin: 120
+D 2.adım atıldı yeni yer: [15] [5] guncel altin: 115
+D [15] [5] de 10 gold bulundu guncel altin:125
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [7] [2] guncel altin: 140
+A 2.adım atıldı yeni yer: [7] [1] guncel altin: 135
+A 3.adım atıldı yeni yer: [7] [0] guncel altin: 130
+A [7] [0] de 15 gold bulundu guncel altin:145
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [6] [18] guncel altin: 145
+B 2.adım atıldı yeni yer: [6] [17] guncel altin: 140
+B 3.adım atıldı yeni yer: [6] [16] guncel altin: 135
+B [6] [16] de 15 gold bulundu guncel altin:150
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [13] [19] guncel altin: 130
+C 2.adım atıldı yeni yer: [13] [18] guncel altin: 125
+C 3.adım atıldı yeni yer: [12] [18] guncel altin: 120
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [16] [5] guncel altin: 100
+D 2.adım atıldı yeni yer: [16] [6] guncel altin: 95
+D [16] [6] de 10 gold bulundu guncel altin:105
+D 3.adım atıldı yeni yer: [16] [7] guncel altin: 100
+D [16] [7] de 20 gold bulundu guncel altin:120
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [8] [0] guncel altin: 135
+A 2.adım atıldı yeni yer: [8] [1] guncel altin: 130
+A 3.adım atıldı yeni yer: [9] [1] guncel altin: 125
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [7] [16] guncel altin: 135
+B 2.adım atıldı yeni yer: [7] [15] guncel altin: 130
+B 3.adım atıldı yeni yer: [7] [14] guncel altin: 125
+B [7] [14] de 20 gold bulundu guncel altin:145
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [11] [18] guncel altin: 115
+C 2.adım atıldı yeni yer: [11] [17] guncel altin: 110
+C [11] [17] de 20 gold bulundu guncel altin:130
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [16] [8] guncel altin: 95
+D 2.adım atıldı yeni yer: [17] [8] guncel altin: 90
+D 3.adım atıldı yeni yer: [17] [9] guncel altin: 85
+D [17] [9] de 20 gold bulundu guncel altin:105
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [10] [1] guncel altin: 120
+A 2.adım atıldı yeni yer: [11] [1] guncel altin: 115
+A [11] [1] de 10 gold bulundu guncel altin:125
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [7] [13] guncel altin: 130
+B 2.adım atıldı yeni yer: [7] [12] guncel altin: 125
+B [7] [12] de 15 gold bulundu guncel altin:140
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [11] [16] guncel altin: 110
+C 2.adım atıldı yeni yer: [11] [15] guncel altin: 105
+C [11] [15] de 15 gold bulundu guncel altin:120
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [16] [9] guncel altin: 80
+D 2.adım atıldı yeni yer: [16] [10] guncel altin: 75
+D [16] [10] de 20 gold bulundu guncel altin:95
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [11] [2] guncel altin: 115
+A [11] [2] de 10 gold bulundu guncel altin:125
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [6] [12] guncel altin: 125
+B [6] [12] de 15 gold bulundu guncel altin:140
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [10] [15] guncel altin: 100
+C 2.adım atıldı yeni yer: [10] [14] guncel altin: 95
+C [10] [14] de 10 gold bulundu guncel altin:105
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [16] [11] guncel altin: 70
+D [16] [11] de 20 gold bulundu guncel altin:90
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [11] [3] guncel altin: 115
+A [11] [3] de 5 gold bulundu guncel altin:120
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [5] [12] guncel altin: 125
+B [5] [12] de 10 gold bulundu guncel altin:135
+B 2.adım atıldı yeni yer: [5] [13] guncel altin: 130
+B [5] [13] de 20 gold bulundu guncel altin:150
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [10] [15] guncel altin: 85
+C 2.adım atıldı yeni yer: [10] [16] guncel altin: 80
+C 3.adım atıldı yeni yer: [9] [16] guncel altin: 75
+C [9] [16] de 10 gold bulundu guncel altin:85
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [17] [11] guncel altin: 65
+D 2.adım atıldı yeni yer: [18] [11] guncel altin: 60
+D 3.adım atıldı yeni yer: [19] [11] guncel altin: 55
+D [19] [11] de 20 gold bulundu guncel altin:75
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [10] [3] guncel altin: 110
+A 2.adım atıldı yeni yer: [10] [4] guncel altin: 105
+A [10] [4] de 20 gold bulundu guncel altin:125
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [4] [13] guncel altin: 135
+B 2.adım atıldı yeni yer: [3] [13] guncel altin: 130
+B [3] [13] de 20 gold bulundu guncel altin:150
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [9] [17] guncel altin: 65
+C 2.adım atıldı yeni yer: [8] [17] guncel altin: 60
+C [8] [17] de 10 gold bulundu guncel altin:70
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [19] [12] guncel altin: 50
+D [19] [12] de 20 gold bulundu guncel altin:70
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [10] [5] guncel altin: 115
+A 2.adım atıldı yeni yer: [9] [5] guncel altin: 110
+A 3.adım atıldı yeni yer: [9] [6] guncel altin: 105
+A [9] [6] de 5 gold bulundu guncel altin:110
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [2] [13] guncel altin: 135
+B [2] [13] de 5 gold bulundu guncel altin:140
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [8] [18] guncel altin: 50
+C [8] [18] de 5 gold bulundu guncel altin:55
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [19] [11] guncel altin: 45
+D 2.adım atıldı yeni yer: [19] [10] guncel altin: 40
+D 3.adım atıldı yeni yer: [19] [9] guncel altin: 35
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [8] [6] guncel altin: 100
+A 2.adım atıldı yeni yer: [7] [6] guncel altin: 95
+A [7] [6] de 20 gold bulundu guncel altin:115
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [1] [13] guncel altin: 125
+B 2.adım atıldı yeni yer: [0] [13] guncel altin: 120
+B 3.adım atıldı yeni yer: [0] [14] guncel altin: 115
+B [0] [14] de 10 gold bulundu guncel altin:125
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [8] [19] guncel altin: 35
+C 2.adım atıldı yeni yer: [9] [19] guncel altin: 30
+C 3.adım atıldı yeni yer: [10] [19] guncel altin: 25
+C [10] [19] de 15 gold bulundu guncel altin:40
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [19] [8] guncel altin: 30
+D 2.adım atıldı yeni yer: [19] [7] guncel altin: 25
+D [19] [7] de 15 gold bulundu guncel altin:40
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [6] [6] guncel altin: 105
+A 2.adım atıldı yeni yer: [6] [7] guncel altin: 100
+A 3.adım atıldı yeni yer: [5] [7] guncel altin: 95
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [1] [14] guncel altin: 110
+B 2.adım atıldı yeni yer: [1] [15] guncel altin: 105
+B [1] [15] de 5 gold bulundu guncel altin:110
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [9] [19] guncel altin: 20
+C 2.adım atıldı yeni yer: [8] [19] guncel altin: 15
+C 3.adım atıldı yeni yer: [7] [19] guncel altin: 10
+
+C**********************************C
+
+D**********************************D
+
+D 1.adım atıldı yeni yer: [19] [6] guncel altin: 15
+D 2.adım atıldı yeni yer: [19] [5] guncel altin: 10
+D [19] [5] de 15 gold bulundu guncel altin:25
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [4] [7] guncel altin: 90
+A [4] [7] de 5 gold bulundu guncel altin:95
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [2] [15] guncel altin: 95
+B 2.adım atıldı yeni yer: [2] [16] guncel altin: 90
+B 3.adım atıldı yeni yer: [3] [16] guncel altin: 85
+B [3] [16] de 10 gold bulundu guncel altin:95
+
+B**********************************B
+
+C**********************************C
+
+C 1.adım atıldı yeni yer: [7] [18] guncel altin: 5
+C 2.adım atıldı yeni yer: [6] [18] guncel altin: 0
+D**********************************D
+
+D 1.adım atıldı yeni yer: [19] [4] guncel altin: 0
+D [19] [4] de 10 gold bulundu guncel altin:10
+
+D**********************************D
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [3] [7] guncel altin: 85
+A [3] [7] de 20 gold bulundu guncel altin:105
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [4] [16] guncel altin: 80
+B [4] [16] de 5 gold bulundu guncel altin:85
+
+B**********************************B
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [2] [7] guncel altin: 95
+A 2.adım atıldı yeni yer: [2] [6] guncel altin: 90
+A [2] [6] de 15 gold bulundu guncel altin:105
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [5] [16] guncel altin: 70
+B 2.adım atıldı yeni yer: [5] [15] guncel altin: 65
+B [5] [15] de 10 gold bulundu guncel altin:75
+
+B**********************************B
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [2] [5] guncel altin: 95
+A 2.adım atıldı yeni yer: [1] [5] guncel altin: 90
+A 3.adım atıldı yeni yer: [0] [5] guncel altin: 85
+A [0] [5] de 10 gold bulundu guncel altin:95
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [4] [15] guncel altin: 60
+B 2.adım atıldı yeni yer: [3] [15] guncel altin: 55
+B 3.adım atıldı yeni yer: [3] [16] guncel altin: 50
+
+B**********************************B
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [0] [4] guncel altin: 85
+A 2.adım atıldı yeni yer: [0] [3] guncel altin: 80
+A [0] [3] de 15 gold bulundu guncel altin:95
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [3] [17] guncel altin: 45
+B 2.adım atıldı yeni yer: [3] [18] guncel altin: 40
+B [3] [18] de 10 gold bulundu guncel altin:50
+
+B**********************************B
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [1] [3] guncel altin: 85
+A 2.adım atıldı yeni yer: [1] [4] guncel altin: 80
+A [1] [4] de 20 gold bulundu guncel altin:100
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [3] [17] guncel altin: 35
+B 2.adım atıldı yeni yer: [3] [16] guncel altin: 30
+B 3.adım atıldı yeni yer: [3] [15] guncel altin: 25
+
+B**********************************B
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [1] [5] guncel altin: 90
+A 2.adım atıldı yeni yer: [1] [6] guncel altin: 85
+A 3.adım atıldı yeni yer: [1] [7] guncel altin: 80
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [3] [14] guncel altin: 20
+B 2.adım atıldı yeni yer: [3] [13] guncel altin: 15
+B 3.adım atıldı yeni yer: [3] [12] guncel altin: 10
+
+B**********************************B
+
+A**********************************A
+
+A 1.adım atıldı yeni yer: [1] [8] guncel altin: 75
+A [1] [8] de 20 gold bulundu guncel altin:95
+
+A**********************************A
+
+B**********************************B
+
+B 1.adım atıldı yeni yer: [3] [11] guncel altin: 5
+B 2.adım atıldı yeni yer: [3] [10] guncel altin: 0
